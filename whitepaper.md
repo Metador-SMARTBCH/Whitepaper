@@ -8,4 +8,4 @@ Metador, A virtual project founded on SmartBch Chain. Prior the current trend on
 
 ## Why SmartBCH?
 
-**SmartBCH** is a blockchain designed for fast and cheap transactions.
+**SmartBCH** is a blockchain designed for fast and cheap transactions. It is compatible with Ethereum's EVM and Web3 API and provides high throughput for DApps in a fast, secure, and decentralized manner. More reference [SmartBch Website](https://smartbch.org/ "SmartBch Website")
