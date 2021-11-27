@@ -2,3 +2,4 @@
 
 ## AIMS:
 
+Metador, A virtual project founded on SmartBch Chain. 
