@@ -42,7 +42,7 @@ $Metador Token can also be staked in order to generate returns and to make the g
 # Community
 Twitter: [Twitter](https://twitter.com/Metador_SBCH) \
 Telegram: [Telegram](https://t.me/metadorSBCH) \
-Website: [Website](https://smetador.space/) \
+Website: [Website](https://smetador.space/) 
 
 ****
 
