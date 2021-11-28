@@ -21,3 +21,16 @@ $Metador is the default in-game currency that will be used each time users upgra
 $Metador Token can also be staked in order to generate returns and to make the game progression faster for players as rewards are earned. PLayers can also level up through either earning experience points by plaing the game or through stakind $Metador tokens.
 
 # Roadmap
+
+* Launching the project on SmartBch blockchain
+* 3% airdrop to the community.
+* Application on IBO on Benswap Platform
+* Creating liquity pool for the token.
+* Launch on Benswap
+* Virtual gaming integration and other activities.
+* Website V2 Release and Tokens burning.
+* Farming rewards.
+* Marketplace introduction for $Meta token with wide application
+* Partnership
+* Top holders reward.
+* Continous Development.
