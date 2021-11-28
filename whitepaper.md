@@ -14,3 +14,6 @@ Metador, A virtual project founded on SmartBch Chain. Prior the current trend on
 
 # What is Metador?  
 Metador is a virtual gaming project, which the main gameplay is set up around mining, combating as well as collecting resources, engaging in virtual actions with the default currency as Metador. Leveraging blockchain technology, assets in the game are issued as non-fungible tokens and can be transferred and traded freely in the in-game marketplace. The in-game transactions are all recorded on the blockchain to ensure that there is no centralized party that could tamper the game results and other actions.
+
+# Metador Token
+$Metador is the default in-game currency that will be used each time users upgrade their tools or trade on the in-game marketplace. The $Metador collected from the these activities will be stored in the community reserve, collectively, the token holders will decide on the Metador token, either to fund further the gameplay development or to be burned. It is also the currency used in the marketplace, trasaction fees are charged in $Metador as well.
