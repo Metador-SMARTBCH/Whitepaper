@@ -17,3 +17,7 @@ Metador is a virtual gaming project, which the main gameplay is set up around mi
 
 # Metador Token
 $Metador is the default in-game currency that will be used each time users upgrade their tools or trade on the in-game marketplace. The $Metador collected from the these activities will be stored in the community reserve, collectively, the token holders will decide on the Metador token, either to fund further the gameplay development or to be burned. It is also the currency used in the marketplace, trasaction fees are charged in $Metador as well.
+
+$Metador Token can also be staked in order to generate returns and to make the game progression faster for players as rewards are earned. PLayers can also level up through either earning experience points by plaing the game or through stakind $Metador tokens.
+
+# Roadmap
